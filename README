@@ -1,0 +1,11 @@
+Mon premier essai sur Processing sous java.
+
+Ici je vais faire un petit jeu en simulant un environnement en 3D.
+Je devrais aller gérer les collisions, la vitesse du personnage, le déplacement des divers objets,etc..
+
+Le fichier a lancer est World.java
+
+
+
+
+STATUS : EN COURS
